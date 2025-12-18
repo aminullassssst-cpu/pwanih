@@ -4,7 +4,7 @@
   overlay.style.cssText = `
     position:fixed;
     inset:0;
-    background:rgba(0,0,0,0.75);
+    background:#202c3e;
     display:none;
     z-index:999999;
     pointer-events:auto;
@@ -89,4 +89,5 @@
       });
     });
   });
+
 })();
